@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Wlad 👋
+
+Checkout projects I support w/ CI/CD, test automation, DevOps ... :floppy_disk:
+- https://github.com/ehrbase/ehrbase
+- https://github.com/ehrbase/openEHR_SDK
+- https://github.com/ehrbase/fhir-bridge
+
+Checkout stuff I’m currently learning ... :heart:
+- https://github.com/wlad/learn-fastapi (https://github.com/tiangolo/fastapi :rocket:)
 
 <!--
 **wlad/wlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
