@@ -1,4 +1,4 @@
-### Hi there, I'm Wlad 👋
+### Hi there, I'm Wlad (often confused w/ [Vlad](https://www.urbandictionary.com/define.php?term=Vlad) 👋)
 
 Checkout projects I support w/ CI/CD, test automation, DevOps ... :floppy_disk:
 - https://github.com/ehrbase/ehrbase
