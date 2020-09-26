@@ -9,16 +9,16 @@
 - https://github.com/ehrbase/openEHR_SDK
 - https://github.com/ehrbase/fhir-bridge
 
-> :floppy_disk: I'm supporting this projects with test automation, CI/CD, DevOps
->
-> ...
+  > :floppy_disk: I'm supporting this projects with test automation, CI/CD, DevOps
+  >
+  > ...
 
 
 ## Currently learning ...
 
 - https://github.com/wlad/learn-fastapi (https://github.com/tiangolo/fastapi :rocket:)
 
-> NEVER STOP LEARNING!
+  > NEVER STOP LEARNING!
 
 
 ## My Stats
