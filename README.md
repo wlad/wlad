@@ -3,21 +3,22 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-## I’m currently working on ...
-
-> :floppy_disk: supporting this projects w/ test automation, CI/CD, DevOps ...
+## Currently working on ...
 
 - https://github.com/ehrbase/ehrbase
 - https://github.com/ehrbase/openEHR_SDK
 - https://github.com/ehrbase/fhir-bridge
 
+> :floppy_disk: I'm supporting this projects with test automation, CI/CD, DevOps
+>
+> ...
 
 
-## I’m currently learning ...
-
-> :heart: never stop learning!
+## Currently learning ...
 
 - https://github.com/wlad/learn-fastapi (https://github.com/tiangolo/fastapi :rocket:)
+
+> NEVER STOP LEARNING!
 
 
 ## My Stats
