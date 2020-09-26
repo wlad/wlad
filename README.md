@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wlad&show_icons=true&line_height=27">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlad>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlad">
 </p>
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
