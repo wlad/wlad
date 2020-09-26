@@ -1,13 +1,11 @@
 # Hi I'm Wlad (often confused w/ [Vlad](https://www.urbandictionary.com/define.php?term=Vlad)) 👋
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
 ![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wlad")
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-## :floppy_disk: I’m currently working on ...
+## I’m currently working on ...
 
-> supporting this projects w/ test automation, CI/CD, DevOps ...
+> :floppy_disk: supporting this projects w/ test automation, CI/CD, DevOps ...
 
 - https://github.com/ehrbase/ehrbase
 - https://github.com/ehrbase/openEHR_SDK
@@ -15,7 +13,10 @@
 
 
 
-## 🌱 I’m currently learning ...
+## I’m currently learning ...
+
+> :heart: never stop learning!
+
 - https://github.com/wlad/learn-fastapi (https://github.com/tiangolo/fastapi :rocket:)
 
 
@@ -34,6 +35,7 @@
 </p>
 -->
 
-
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wlad.wlad)
