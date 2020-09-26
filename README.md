@@ -20,13 +20,17 @@
 ## My Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wlad&show_icons=true&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api?username=wlad&show_icons=true&hide=stars">
 </p>
+
+[![wlad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wlad)](https://github.com/wlad/wlad)
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlad">
 </p>
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wlad.wlad)
