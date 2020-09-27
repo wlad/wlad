@@ -51,25 +51,27 @@
 ---
 
 <br>
+<p align="left">
 <a href="https://github.com/#">
   <img align="left" alt="Ajay's Github" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://www.instagram.com/#" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wlad" height="33" width="33" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wlad" height="33" width="33" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/#">
   <img align="left" alt="Ajay's Twitter" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/#">
   <img align="left" alt="Ajay's Linkdein" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-<a href="https://t.me/#">
-  <img align="left" alt="Ajay's Telegram" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.hackerrank.com/#">
-  <img align="left" alt="Ajay's Hackerrank" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://www.kaggle.com/#">
+  <img align="left" alt="Wlad's Stackoverflow" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.kaggle.com/#">
-  <img align="left" alt="Ajay's Kaggle" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+  <img align="left" alt="Wlad's Stackoverflow" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tiktok.svg" />
 </a>
+</p>
 <br>
 <br>
 <br>
