@@ -1,4 +1,4 @@
-# Hi I'm Wlad (often confused w/ [Vlad](https://www.urbandictionary.com/define.php?term=Vlad)) 👋
+# Hi I'm Wlad (often confused w/ [Vlad](https://www.urbandictionary.com/define.php?term=Vlad)) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 ![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wlad")
 
