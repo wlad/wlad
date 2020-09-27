@@ -66,6 +66,9 @@
   <img align="left" alt="Ajay's Linkdein" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/#">
+  <img align="left" alt="Wlad's Stackoverflow" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/keybase.svg" />
+</a>
+<a href="https://www.kaggle.com/#">
   <img align="left" alt="Wlad's Stackoverflow" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.kaggle.com/#">
