@@ -14,12 +14,6 @@
   > ...
 
 
-## Currently learning ...
-
-- https://github.com/wlad/learn-fastapi (https://github.com/tiangolo/fastapi :rocket:)
-
-  > NEVER STOP LEARNING!
-
 
 ## My Stats
 
@@ -29,12 +23,22 @@
 
 [![wlad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wlad)](https://github.com/wlad/wlad)
 
-
 <!--
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlad">
 </p>
 -->
+
+
+
+## Currently learning ...
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+- https://github.com/wlad/learn-fastapi (https://github.com/tiangolo/fastapi :rocket:)
+
+  > NEVER STOP LEARNING!
+
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
