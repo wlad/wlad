@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-## 💾 Currently working on ...
+## Currently working on 💾
 
 - https://github.com/ehrbase/ehrbase
 - https://github.com/ehrbase/openEHR_SDK
@@ -33,7 +33,7 @@
 
 
 
-## 🎓 Currently learning ...
+## Currently learning 🎓
 
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
