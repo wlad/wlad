@@ -1,5 +1,7 @@
 # Hi I'm Wlad (often confused w/ [Vlad](https://www.urbandictionary.com/define.php?term=Vlad)) 👋
+
 ![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wlad")
+
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
@@ -41,8 +43,36 @@
   NEVER STOP LEARNING!
   ```
 
-
+<!--
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
+-->
+
+---
+
+<br>
+<a href="https://github.com/#">
+  <img align="left" alt="Ajay's Github" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://twitter.com/#">
+  <img align="left" alt="Ajay's Twitter" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/#">
+  <img align="left" alt="Ajay's Linkdein" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://t.me/#">
+  <img align="left" alt="Ajay's Telegram" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.hackerrank.com/#">
+  <img align="left" alt="Ajay's Hackerrank" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://www.kaggle.com/#">
+  <img align="left" alt="Ajay's Kaggle" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+</a>
+<br>
+<br>
+<br>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wlad.wlad)
